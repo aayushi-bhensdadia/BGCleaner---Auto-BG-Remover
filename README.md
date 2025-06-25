@@ -1,6 +1,6 @@
-# Auto Background Remover 🖼️
+# Auto Background Remover 
 
-A web-based tool to remove backgrounds from images using the remove.bg API. Users can upload an image, preview the result with background removed, and download the output as a PNG.
+A web-based tool to remove backgrounds from images using the apyhub API. Users can upload an image, preview the result with background removed, and download the output as a PNG.
 
 ## 🔧 Features
 - Upload image files (JPEG/PNG)
@@ -10,7 +10,7 @@ A web-based tool to remove backgrounds from images using the remove.bg API. User
 
 ## 🚀 Technologies Used
 - HTML, CSS, JavaScript
-- remove.bg API
+- apyhub API
 - Netlify (for deployment)
 
 ## 📷 Screenshot
